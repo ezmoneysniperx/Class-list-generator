@@ -1,0 +1,47 @@
+{
+  "name": "final",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "5.0.8",
+    "axios": "^1.2.2",
+    "core-js": "^3.27.1",
+    "csvjson-csv2json": "^5.0.6",
+    "firebase": "^9.15.0",
+    "html-to-image": "^1.11.4",
+    "json2csv": "^5.0.7",
+    "vue": "^2.6.14",
+    "vue-excel-xlsx": "^1.0.3",
+    "vue-js-xlsx": "^0.0.2",
+    "vue-json-excel": "^0.3.0",
+    "vue-router": "^3.6.5",
+    "vue-simple-alert": "^1.1.1",
+    "vuetify": "^2.6.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@mdi/font": "^7.1.96",
+    "@mdi/js": "^7.1.96",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "prettier": "^2.4.1",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.8",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
+  }
+}
